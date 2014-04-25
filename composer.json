@@ -1,7 +1,7 @@
 {
-	"name": "istt/yii2-template-module",
-	"description": "A module for Yii2",
-	"keywords": ["istt", "ndtrung", "yii", "template"],
+	"name": "istt/yii2-smsws-module",
+	"description": "SMS Web Service for Kannel",
+	"keywords": ["istt", "ndtrung", "yii", "smsws"],
 	"type": "yii2-module",
 	"license": "MIT",
 	"authors": [
@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"istt\\template\\": ""
+			"istt\\smsws\\": ""
 		}
 	}
 }
