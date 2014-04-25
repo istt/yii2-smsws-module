@@ -4,7 +4,7 @@ namespace istt\smsws;
 
 class SmswsModule extends \yii\base\Module
 {
-    public $controllerNamespace = 'istt\template\controllers';
+    public $controllerNamespace = 'istt\smsws\controllers';
 
     public function init()
     {
